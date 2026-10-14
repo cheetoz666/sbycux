@@ -1,0 +1,17 @@
+{
+  "name": " sbcux",
+  "author": "cheetoz666",
+  "url": "https://raw.githubusercontent.com/cheetoz666/repository/main/",
+  "extensions": [
+    {
+      "name": "sbycuxV1",
+      "authors": ["cheetoz666"],
+      "version": 1,
+      "internalName": "sbycuxV1",
+      "lang": "id",
+      "fileUrl": "https://raw.githubusercontent.com/cheetoz666/repository/main/namakekstensi1.decimal",
+      "iconUrl": "https://example.com/icon.png",
+      "types": [0]
+    }
+  ]
+}
