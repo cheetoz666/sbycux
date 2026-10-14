@@ -1,5 +1,5 @@
 {
-  "name": " sbcux",
+  "name": " sbycux",
   "author": "cheetoz666",
   "url": "https://raw.githubusercontent.com/cheetoz666/repository/main/",
   "extensions": [
@@ -9,7 +9,7 @@
       "version": 1,
       "internalName": "sbycuxV1",
       "lang": "id",
-      "fileUrl": "https://raw.githubusercontent.com/cheetoz666/repository/main/namakekstensi1.decimal",
+      "fileUrl": "https://raw.githubusercontent.com/cheetoz666/repository/main/sbycuxV1.decimal",
       "iconUrl": "https://example.com/icon.png",
       "types": [0]
     }
